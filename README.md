@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </a>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/FaturFawkes" alt="profile views"> •  
+  <img src="https://gpvc.arturio.dev/FaturFawkes" alt="profile views"> 
 </p>
 
 ---
@@ -32,5 +32,3 @@ All of my projects are released as open-source on GitHub, this includes some of 
 I learned PHP when I was in school and took some classes for mastering the backend with go. There's will be my long journey for my life in programming because I love it
 
 </details>
-
---
