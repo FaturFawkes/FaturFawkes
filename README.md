@@ -6,7 +6,7 @@
 
 ---
 
-This is place for me to build something new and grow up my skills
+This is the place for me to build something new and grow up my skills
 
 Here are some ideas to get you started:
 
