@@ -1,7 +1,5 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </a>
 
---
-
 <p align="center">
   <img src="https://gpvc.arturio.dev/FaturFawkes" alt="profile views"> •  
 </p>
