@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Go
-- ⚡ &nbsp;Fun fact: I :heart: :sport: :football: and watching meme video
+- ⚡ &nbsp;Fun fact: I ❤️🏃 and watching 💩post
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
