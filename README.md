@@ -27,7 +27,7 @@ I am a Backend Developer with 1 years of experience in developing applications o
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - [Mentutor](https://github.com/Capstone-Group3-Mentutor/Back_End) - An application for task management for teachers and students in school. The teacher can be easier to give tasks for students and students can be easier to submit an assignment from teacher on the same platform.
-- [Mini Ecommerce](https://github.com/E-Commerce-App-Team-5/Back-End) - If you want to be a seller and buyer at the same time, this app can realize your imagine. I made an application for a meet between the seller and buyer in the same place. This app has integrated with a payment gateway. Buyers can pay with many payment options which available in Indonesia.
+- [Healthy Mart](https://github.com/E-Commerce-App-Team-5/Back-End) - If you want to be a seller and buyer at the same time, this app can realize your imagine. I made an application for a meet between the seller and buyer in the same place. This app has integrated with a payment gateway. Buyers can pay with many payment options which available in Indonesia.
 
 I learned PHP when I was in school and took some classes for mastering the backend with go. There's will be my long journey for my life in programming because I love it
 
