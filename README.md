@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/nur-fatchurohman-bab637152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 <!-- Tech Stack -->
-**My Skills**
+**Skills**
 
 * ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 * ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
