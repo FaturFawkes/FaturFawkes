@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 <!-- Tech Stack -->
 ### My Skills
 
-* [![Golang][Go.dev]][GOlag-url]
-* [![MySQL][MySQL.com]][MySQL-url]
-* [![Docker][Docker.com]][Docker-url]
-* [![AWS][AWS.amazon.com]][AWS-url]
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
