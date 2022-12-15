@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/nur-fatchurohman-bab637152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <!-- Tech Stack -->
-### My Skills
+**My Skills**
 
 * [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]
 * Echo v4
