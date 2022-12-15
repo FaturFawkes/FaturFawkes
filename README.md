@@ -14,9 +14,20 @@ Here are some ideas to get you started:
 - 🌱 &nbsp;I’m currently learning Go
 - ⚡ &nbsp;Fun fact: I ❤️🏃 and watching 💩post
 
+<!-- Linkedin -->
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/nur-fatchurohman-bab637152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+<!-- Tech Stack -->
+### My Skills
+
+* [![Golang][Go.dev]][GOlag-url]
+* [![MySQL][MySQL.com]][MySQL-url]
+* [![Docker][Docker.com]][Docker-url]
+* [![AWS][AWS.amazon.com]][AWS-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
