@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **nur.fatchurohman@gmail.com**
+- 📫 How to reach me: **nur.faturohman28@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, traveling...and coding of course**
 
